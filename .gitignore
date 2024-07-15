@@ -1,0 +1,7 @@
+# Clasp files
+src/appsscript.json
+.clasp.json
+.claspignore
+
+# Node Modules
+node_modules
